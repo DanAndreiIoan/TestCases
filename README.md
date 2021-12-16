@@ -2,6 +2,7 @@
 
 ------------------------------------
 **Description :**
+
 Check if the login works when a person uses a corect user/password.
 
 **Steps to reproduce :**
